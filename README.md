@@ -2,6 +2,7 @@
 Backbone-Marionette Component Generator
 
 ![node](https://img.shields.io/node/v/bbgenerator.svg) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ineigo/bbgenerator.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ineigo/bbgenerator.svg)
+![Travis (.com)](https://img.shields.io/travis/com/Ineigo/bbgenerator.svg)
 
 ## Install 
 `npm i -g bbgenerator`
